@@ -1,0 +1,2 @@
+results:
+	python hello.py > $@
