@@ -6,5 +6,5 @@ persons = [
 ]
 
 for person in persons:
-  print('Hello ', person , ' !')
+  print('Goodbye ', person , ' !')
 
